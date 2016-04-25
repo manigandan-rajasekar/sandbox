@@ -1,0 +1,10 @@
+The objective of this game is to find the goldmine.
+The player will use arrow keys and space to navigate and select boxes respectively.
+Scores are calculated based on how many boxes a player has opened before finding a goldmine.
+The position of a goldmine is randomized based on the system clock time.
+
+To run this game, you will need - 
+MASM611 emulator
+
+To play this game, you will need - 
+a clearly disturbed mind.
